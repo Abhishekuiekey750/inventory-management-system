@@ -61,20 +61,31 @@ graph TD
 
 ---
 
-## Live Demo & Screenshots
+## Live Deployments & Application Screenshots
 
-### Live Demo Links
-* **Frontend Dashboard (Vercel):** [https://inventory-order-mgmt.vercel.app](https://inventory-order-mgmt.vercel.app) *(Placeholder)*
-* **Backend API Documentation (Render):** [https://inventory-mgmt-backend.onrender.com/docs](https://inventory-mgmt-backend.onrender.com/docs) *(Placeholder)*
+### Live Deployment Links
+* **Interactive Frontend Dashboard (Vercel):** [https://inventory-management-system-nu-khaki.vercel.app/](https://inventory-management-system-nu-khaki.vercel.app/)
+* **Production Backend API (Render):** [https://inventory-management-backend-50ah.onrender.com](https://inventory-management-backend-50ah.onrender.com)
+* **Interactive API Documentation (Swagger UI):** [https://inventory-management-backend-50ah.onrender.com/docs](https://inventory-management-backend-50ah.onrender.com/docs)
 
-### Screenshots
-*(Screencasts and layout screenshots demonstrating full responsiveness)*
-* **Desktop Admin Dashboard**
-  ![Desktop Overview Dashboard](https://raw.githubusercontent.com/username/project/main/screenshots/desktop_dashboard.png)
-* **Mobile Responsive View (320px)**
-  ![Mobile View Panel](https://raw.githubusercontent.com/username/project/main/screenshots/mobile_responsive.png)
-* **Orders Shopping Cart Panel**
-  ![Order Creator Cart](https://raw.githubusercontent.com/username/project/main/screenshots/orders_creator.png)
+### Application Screenshots
+
+#### 1. Dashboard Overview
+Dashboard displaying real-time business metrics (Total Products, Customers, Orders, Low Stock Products, and Total Inventory Value).
+![Dashboard](screenshots/dashboard.png)
+
+#### 2. Product Inventory Management
+Product inventory table listing items, SKUs, pricing, stock levels, and actions to create, edit, or delete products.
+![Products](screenshots/products.png)
+
+#### 3. Customer Directory
+Customer records view displaying full names, emails, phones, and registrations.
+![Customers](screenshots/customers.png)
+
+#### 4. Order Placements & Status Tracking
+Order placement dashboard and shopping cart checkout panel. Enforces real-time stock validations, transactional rollbacks, and includes options to view details or perform soft cancellations.
+![Orders](screenshots/orders.png)
+
 
 ---
 
