@@ -1,0 +1,27 @@
+# Environments
+.env
+*.env
+backend/venv/
+backend/.env
+frontend/.env
+pgdata/
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+backend/.pytest_cache/
+backend/test_verification.db
+
+# Javascript / Node
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.cache/
+
+# IDEs & System
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
