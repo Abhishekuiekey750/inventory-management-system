@@ -65,7 +65,7 @@ graph TD
 
 ### Live Demo Links
 * **Frontend Dashboard (Vercel):** [https://inventory-order-mgmt.vercel.app](https://inventory-order-mgmt.vercel.app) *(Placeholder)*
-* **Backend API Documentation (Render):** [https://inventory-mgmt-backend.onrender.com/docs](https://inventory-mgmt-backend.onrender.com/docs) *(Placeholder)*
+* **Backend API Documentation (Render):** [https://inventory-mgmt-backend.onrender.com/docs](https://inventory-management-backend-50ah.onrender.com) *(Placeholder)*
 
 ### Screenshots
 *(Screencasts and layout screenshots demonstrating full responsiveness)*
